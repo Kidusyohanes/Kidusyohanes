@@ -1,4 +1,4 @@
-# 👋 Hey, I’m **Kidus Yohanes Sendeke**
+# 👋 Hey, I’m **Kidus Sendeke**
 
 Software Engineer • Builder • Problem Solver • Tinkerer  
 I love turning ideas into products — whether that’s a large-scale distributed system or a tiny CLI tool that helps me automate life.
@@ -35,9 +35,8 @@ I love turning ideas into products — whether that’s a large-scale distribute
 ---
 
 ### 📬 **Want to Reach Me?**
-- 💼 LinkedIn: *[Add link later]*  
-- ✉️ Email: *[Add email]*  
-- 📸 Soon on Instagram: **@return200** (coming soon, like a tech IPO 🤑)
+- 💼 LinkedIn: *[[Kidus-Sendeke](https://www.linkedin.com/in/kidus-sendeke/)]*  
+- ✉️ Email: *[kidussendeke@gmail.com]*  
 
 ---
 
